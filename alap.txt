@@ -2,12 +2,14 @@
 <html lang="hu">
 <head>
     <meta charset="UTF-8">
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="bootstrap.min.css">
-<script src="bootstrap.min.js"></script>
+<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../bootstrap.min.css">
+<script src="../bootstrap.min.js"></script>
     <title>Táttáráttátá iskola</title>
 </head>
 <body>
     
 </body>
 </html>
+
+Fejléc(em)Kréta	Órarend	Szakok	Névadó	Főoldal	Elérhetősgek	Alapítvány
