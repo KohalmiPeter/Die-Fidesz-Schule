@@ -92,3 +92,50 @@
     height: 500px;
 }
 
+/*Főoldal*/
+
+.Maincím{
+    display: grid;    
+    font-size: 40px;
+    background-color: #ff6a00;
+    color: white;
+}
+
+.Maincím p{
+    margin:auto;
+
+}
+
+.közép{
+    display:grid
+}
+
+.közép p{
+    margin: auto;
+}
+
+.közép img{
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 300px;
+}
+
+.háttér{
+    background-color: #343a40;
+    color: white
+    ;
+}
+
+.aláírás{
+    background-color: #ff6a0077;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.menupont{
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: #ff6a00;
+}
